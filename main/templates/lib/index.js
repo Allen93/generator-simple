@@ -1,4 +1,4 @@
-import {run} from './<%= appname %>';
+import {run} from './app';
 
 var app = {
 	run: run
