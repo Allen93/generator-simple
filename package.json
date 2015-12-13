@@ -1,0 +1,22 @@
+{
+  "name": "generator-simple",
+  "version": "0.1.0",
+  "files": [
+    "src",
+    "test",
+    "example"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
